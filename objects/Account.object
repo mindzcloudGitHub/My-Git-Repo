@@ -18,4 +18,5 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Date</type>
     </fields>
+    
 </CustomObject>
